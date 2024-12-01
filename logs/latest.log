@@ -1,0 +1,18 @@
+[02:32:15] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Shadow Games In Dimension: 0 Duration: 60secs
+[02:33:15] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Shadow Games
+[10:57:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Shadow Games In Dimension: 0 Duration: 60secs
+[10:58:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Shadow Games
+[18:15:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: The Swarm In Dimension: 0 Duration: 60secs
+[18:16:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: The Swarm
+[18:38:06] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[18:38:06] [RCON Client #2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon: Stopping the server]
+[18:38:06] [Server thread/INFO] [AUW]: Stopping DS...
+[18:38:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:38:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:38:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:38:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[18:38:06] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[18:38:06] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:38:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:38:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:38:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
